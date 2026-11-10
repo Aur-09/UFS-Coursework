@@ -1,0 +1,14 @@
+T:\ghfh\Prac4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+T:\ghfh\Prac4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+T:\ghfh\Prac4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+T:\ghfh\Prac4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+T:\ghfh\Prac4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+T:\ghfh\Prac4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+T:\ghfh\Prac4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+T:\ghfh\Prac4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+T:\ghfh\Prac4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+T:\ghfh\Prac4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+T:\ghfh\Prac4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPetFish.resources
+T:\ghfh\Prac4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMainForm.resources
+T:\ghfh\Prac4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmWelcomePage.resources
+T:\ghfh\Prac4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPetDetails.resources
