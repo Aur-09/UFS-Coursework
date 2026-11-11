@@ -1,0 +1,10 @@
+T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.csprojAssemblyReference.cache
+T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.frmFruit.resources
+T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.Properties.Resources.resources
+T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.csproj.GenerateResource.cache
+T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.csproj.CoreCompileInputs.cache
+T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\bin\Debug\FruitApplication.exe.config
+T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\bin\Debug\FruitApplication.exe
+T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\bin\Debug\FruitApplication.pdb
+T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.exe
+T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.pdb
