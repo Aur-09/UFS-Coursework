@@ -1,0 +1,11 @@
+T:\ghfh\11_11_2026\learning_directories\Creating_Directories\bin\Debug\Creating_Directories.exe.config
+T:\ghfh\11_11_2026\learning_directories\Creating_Directories\bin\Debug\Creating_Directories.exe
+T:\ghfh\11_11_2026\learning_directories\Creating_Directories\bin\Debug\Creating_Directories.pdb
+T:\ghfh\11_11_2026\learning_directories\Creating_Directories\obj\Debug\Creating_Directories.csproj.AssemblyReference.cache
+T:\ghfh\11_11_2026\learning_directories\Creating_Directories\obj\Debug\Creating_Directories.Registration.resources
+T:\ghfh\11_11_2026\learning_directories\Creating_Directories\obj\Debug\Creating_Directories.Properties.Resources.resources
+T:\ghfh\11_11_2026\learning_directories\Creating_Directories\obj\Debug\Creating_Directories.csproj.GenerateResource.cache
+T:\ghfh\11_11_2026\learning_directories\Creating_Directories\obj\Debug\Creating_Directories.csproj.CoreCompileInputs.cache
+T:\ghfh\11_11_2026\learning_directories\Creating_Directories\obj\Debug\Creating_Directories.exe
+T:\ghfh\11_11_2026\learning_directories\Creating_Directories\obj\Debug\Creating_Directories.pdb
+T:\ghfh\11_11_2026\learning_directories\Creating_Directories\obj\Debug\Creating_Directories.exe.config
