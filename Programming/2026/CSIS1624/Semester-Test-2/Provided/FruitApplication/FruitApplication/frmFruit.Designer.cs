@@ -205,7 +205,6 @@
             // 
             // picFruit
             // 
-            this.picFruit.Image = global::FruitApplication.Properties.Resources.oily_fish;
             this.picFruit.Location = new System.Drawing.Point(6, 19);
             this.picFruit.Name = "picFruit";
             this.picFruit.Size = new System.Drawing.Size(144, 79);
@@ -228,7 +227,7 @@
             // nudWeight
             // 
             this.nudWeight.Location = new System.Drawing.Point(89, 151);
-            this.nudWeight.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.nudWeight.Margin = new System.Windows.Forms.Padding(2);
             this.nudWeight.Name = "nudWeight";
             this.nudWeight.Size = new System.Drawing.Size(56, 20);
             this.nudWeight.TabIndex = 14;

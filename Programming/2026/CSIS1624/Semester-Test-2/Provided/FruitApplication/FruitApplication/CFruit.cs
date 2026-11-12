@@ -29,7 +29,7 @@ namespace FruitApplication
             }
 
         }
-        public double _weight
+        public double _Weight
         {
             get { return Weight; }
             set
@@ -40,7 +40,7 @@ namespace FruitApplication
                 }
                 else
                 {
-                    throw new ArgumentException("Fruit code should start with F-");
+                    throw new ArgumentException("Weight must be between 1 and 50 kg.");
                 }
             }
 
@@ -48,13 +48,13 @@ namespace FruitApplication
         public CFruit(string picture, string fruitcode, double _weight)
         {
             Pictures = picture;
-            Fruitcode = fruitcode;
-            Weight = _weight;
+            _fruitcode = fruitcode;
+            _Weight = _weight;
         }
         public abstract string Details();
         public virtual string FileDetails()
         {
-            return $"{Fruitcode};{Weight}";
+            return $"{_fruitcode};{_Weight}";
         }
     }
 }

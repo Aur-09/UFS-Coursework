@@ -8,11 +8,7 @@ namespace FruitApplication
 {
     class CBanana: CFruit
     {
-        private bool IsRipe
-        {
-            get { return IsRipe; }
-            set { IsRipe = value; }
-        }
+        private bool IsRipe { get; set; }
 
         public CBanana(string picture, string fruitcode, double _weight, bool isRipe) : base(picture, fruitcode, _weight)
         {
@@ -22,12 +18,12 @@ namespace FruitApplication
         {
             return $"PictureFile: {Pictures}\n" +
                 $"FruitCode: {_fruitcode}\n" +
-                $"Weight: {_weight}\n" +
+                $"Weight: {_Weight}\n" +
             $"IsRipe: {(IsRipe ? "Yes" : "No")}";
         }
         public override string FileDetails()
         {
-            return $"Banana;{_fruitcode};{_weight}:{(IsRipe ? "Yes" : "No")}";
+            return $"Banana;{_fruitcode};{_Weight};{(IsRipe ? "Yes" : "No")}";
         }
     }
 }

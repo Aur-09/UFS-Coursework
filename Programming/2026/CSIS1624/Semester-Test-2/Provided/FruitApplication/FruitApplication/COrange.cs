@@ -18,12 +18,12 @@ namespace FruitApplication
         {
             return $"PictureFile: {Pictures}\n" +
                 $"FruitCode: {_fruitcode}\n" +
-                $"Weight: {_weight}\n" +
+                $"Weight: {_Weight}\n" +
             $"IsSeedless: {(IsSeedless ? "Yes" : "No")}";
         }
         public override string FileDetails()
         {
-            return $"Orange;{_fruitcode};{_weight}:{(IsSeedless ? "Yes" : "No")}";
+            return $"Orange;{_fruitcode};{_Weight};{(IsSeedless ? "Yes" : "No")}";
         }
     }
 }

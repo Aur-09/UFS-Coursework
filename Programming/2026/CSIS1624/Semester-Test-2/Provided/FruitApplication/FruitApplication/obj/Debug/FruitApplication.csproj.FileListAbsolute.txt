@@ -8,3 +8,13 @@ T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\Fr
 T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\bin\Debug\FruitApplication.pdb
 T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.exe
 T:\Test practising\CSIS1624_Tutorial\Provided_Fruit\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.pdb
+T:\Test practising\today\UFS-Coursework-main\Programming\2026\CSIS1624\Semester-Test-2\Provided\FruitApplication\FruitApplication\bin\Debug\FruitApplication.exe.config
+T:\Test practising\today\UFS-Coursework-main\Programming\2026\CSIS1624\Semester-Test-2\Provided\FruitApplication\FruitApplication\bin\Debug\FruitApplication.exe
+T:\Test practising\today\UFS-Coursework-main\Programming\2026\CSIS1624\Semester-Test-2\Provided\FruitApplication\FruitApplication\bin\Debug\FruitApplication.pdb
+T:\Test practising\today\UFS-Coursework-main\Programming\2026\CSIS1624\Semester-Test-2\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.csprojAssemblyReference.cache
+T:\Test practising\today\UFS-Coursework-main\Programming\2026\CSIS1624\Semester-Test-2\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.frmFruit.resources
+T:\Test practising\today\UFS-Coursework-main\Programming\2026\CSIS1624\Semester-Test-2\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.Properties.Resources.resources
+T:\Test practising\today\UFS-Coursework-main\Programming\2026\CSIS1624\Semester-Test-2\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.csproj.GenerateResource.cache
+T:\Test practising\today\UFS-Coursework-main\Programming\2026\CSIS1624\Semester-Test-2\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.csproj.CoreCompileInputs.cache
+T:\Test practising\today\UFS-Coursework-main\Programming\2026\CSIS1624\Semester-Test-2\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.exe
+T:\Test practising\today\UFS-Coursework-main\Programming\2026\CSIS1624\Semester-Test-2\Provided\FruitApplication\FruitApplication\obj\Debug\FruitApplication.pdb

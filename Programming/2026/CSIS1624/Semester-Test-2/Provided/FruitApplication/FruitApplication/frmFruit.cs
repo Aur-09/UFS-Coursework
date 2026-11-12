@@ -40,45 +40,50 @@ namespace FruitApplication
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            if (radApple.Checked)
-            {
-                fruit = new CApple(txtPictureURL.Text, txtFruitCode.Text, double.Parse(nudWeight.Text), chkIsOrganic.Checked);
-                
-            }
-            else if (radBanana.Checked)
-            {
-                fruit = new CBanana(txtPictureURL.Text, txtFruitCode.Text, double.Parse(nudWeight.Text), chkIsRipe.Checked);
-                
-            }
-            else if (radOrange.Checked)
-            {
-                fruit = new COrange(txtPictureURL.Text, txtFruitCode.Text, double.Parse(nudWeight.Text), chkIsSeedless.Checked);
-            }
-            else
-            {
-                MessageBox.Show("Select the Fruit");
-            }
-            if(string.IsNullOrEmpty(txtPictureURL.Text) || string.IsNullOrEmpty(txtFruitCode.Text) || double.Parse(nudWeight.Text) <= 0)
+            try
             {
 
+                if(string.IsNullOrEmpty(txtPictureURL.Text) || string.IsNullOrEmpty(txtFruitCode.Text))
+                {
+                    MessageBox.Show("Please enter all required fields");
+                }
+                else
+                {
+
+                    if (radApple.Checked)
+                    {
+                        fruit = new CApple(txtPictureURL.Text, txtFruitCode.Text, double.Parse(nudWeight.Text), chkIsOrganic.Checked);
+
+                    }
+                    else if (radBanana.Checked)
+                    {
+                        fruit = new CBanana(txtPictureURL.Text, txtFruitCode.Text, double.Parse(nudWeight.Text), chkIsRipe.Checked);
+
+                    }
+                    else if (radOrange.Checked)
+                    {
+                        fruit = new COrange(txtPictureURL.Text, txtFruitCode.Text, double.Parse(nudWeight.Text), chkIsSeedless.Checked);
+                    }
+                    else
+                    {
+                        MessageBox.Show("Please Select a Fruit");
+                    }
+                    lblDisplay.Text = fruit.Details();
+                    picFruit.Image = Image.FromFile(txtPictureURL.Text);
+                }
             }
-            else
+            catch(Exception ex)
             {
-                MessageBox.Show("Please enter all required fields");
+                MessageBox.Show(ex.Message);
             }
-            lblDisplay.Text = fruit.Details();
-            picFruit.Image = Image.FromFile(filename);
         }
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            SaveFileDialog save = new SaveFileDialog();
-            if(save.ShowDialog() == DialogResult.OK)
+            //using (FileStream fileStream = new FileStream("FruitStock.txt", FileMode.Create, FileAccess.Write))
+            using (StreamWriter writer = new StreamWriter("FruitStock.txt"))
             {
-                using(StreamWriter sw = new StreamWriter("FruitStock.txt"))
-                {
-                    sw.WriteLine(fruit.FileDetails());
-                }
+                writer.WriteLine(fruit.FileDetails());
             }
             MessageBox.Show("CONTENT SAVED SUCCEFULLY");
         }
